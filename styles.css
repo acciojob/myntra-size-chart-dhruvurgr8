@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+table,th,tr,td{
+	border: 1px solid black;
+}
+#row1{
+	background-color:#C0504D;
+}
+#row2{
+	background-color:#DA9694 ;
+}
+#row3{
+	background-color:#F2DCDB ;
+}
+#row4{
+	background-color:#D9D9D9 ;
+}
